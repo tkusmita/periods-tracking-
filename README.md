@@ -12,7 +12,7 @@ periods tracking is a modern and minimal health tracking app designed to help us
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React (with Hooks) / Next.js  
+- **Frontend:** React (with Hooks) / Next.js
 - **Styling:** Tailwind CSS  
 - **State Management:** Zustand / Context API (optional)  
 - **Other Tools:** Local Storage for data persistence  
